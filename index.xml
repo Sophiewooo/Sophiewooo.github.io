@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>简历 - 吴双 on 简历 - 吴双</title>
+    <link>https://sophiewooo.github.io/</link>
+    <description>Recent content in 简历 - 吴双 on 简历 - 吴双</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2017 Wu Shuang</copyright>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://sophiewooo.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>俄罗斯方块</title>
+      <link>https://sophiewooo.github.io/project/tetris/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/project/tetris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>像素鸟</title>
+      <link>https://sophiewooo.github.io/project/flappybird/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/project/flappybird/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>中国电信股份有限公司 安庆分公司</title>
+      <link>https://sophiewooo.github.io/experience/chinatelecom/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/experience/chinatelecom/</guid>
+      <description>
+
+&lt;p&gt;本人有两年接入网数据配置和设备维护经验，及一年多核心层通信设备数据制作和维护经验。负责本地网业务开通和障碍处理，定期做好网络分析，优化改造本地网络，同时承接省公司开展的各项专项活动。熟悉CR、BRAS、交换机、OLT、ONU等各种通信设备，精通网络知识，能快速准确地定位解决网络通讯故障，多次受到领导表彰，被评为优秀员工。工作期间坚持不断学习，获得公司互联网安全技术支撑、承载网络技术支撑技能认证。&lt;/p&gt;
+
+&lt;h2 id=&#34;安庆市-天网工程-项目&#34;&gt;安庆市“天网工程”项目&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-11~2017-1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;与安徽四创电子股份有限公司工程师配合，负责安庆市公安局“天网工程”项目二期的建设和维护，先后部署并接入了几千处监控点，形成基本覆盖全市城区的全天候监控网络。&lt;/p&gt;
+
+&lt;h2 id=&#34;iptv组播下移测试及部署&#34;&gt;IPTV组播下移测试及部署&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-6~2016-11&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;安庆市作为IPTV组播下移试点，负责BRAS和OLT组播数据部署和前期测试，以及后期大量用户数据更改。&lt;/p&gt;
+
+&lt;h2 id=&#34;交换机和olt升级扩容&#34;&gt;交换机和OLT升级扩容&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-6~2017-1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;对全市流量超标的交换机和OLT设备分批进行扩容，缓解高峰期网络压力，完成了全市交换机和OLT的升级工作，同时规范OLT配置，进行双上联改造，增强了网络的健壮性，提升了网络速率和用户感知。&lt;/p&gt;
+
+&lt;h2 id=&#34;安庆市枞阳县区划调整割接&#34;&gt;安庆市枞阳县区划调整割接&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-6~2016-7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;与铜陵市公司配合负责割接前期的准备工作，在枞阳中心机房现场参与完成了枞阳县的语音和宽带等通信网络的割接工作，并且用脚本语言编写了批量指令生成工具，极大地提升了指令生成的质量和效率。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>中国电信股份有限公司 安庆分公司</title>
+      <link>https://sophiewooo.github.io/post/chinatelecom/</link>
+      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/post/chinatelecom/</guid>
+      <description>
+
+&lt;p&gt;本人有两年接入网数据配置和设备维护经验，及一年多核心层通信设备数据制作和维护经验。负责本地网业务开通和障碍处理，定期做好网络分析，优化改造本地网络，同时承接省公司开展的各项专项活动。熟悉CR、BRAS、交换机、OLT、ONU等各种通信设备，精通网络知识，能快速准确地定位解决网络通讯故障，多次受到领导表彰，被评为优秀员工。工作期间坚持不断学习，获得公司互联网安全技术支撑、承载网络技术支撑技能认证。&lt;/p&gt;
+
+&lt;h2 id=&#34;安庆市-天网工程-项目&#34;&gt;安庆市“天网工程”项目&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-11~2017-1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;与安徽四创电子股份有限公司工程师配合，负责安庆市公安局“天网工程”项目二期的建设和维护，先后部署并接入了几千处监控点，形成基本覆盖全市城区的全天候监控网络。&lt;/p&gt;
+
+&lt;h2 id=&#34;iptv组播下移测试及部署&#34;&gt;IPTV组播下移测试及部署&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-6~2016-11&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;安庆市作为IPTV组播下移试点，负责BRAS和OLT组播数据部署和前期测试，以及后期大量用户数据更改。&lt;/p&gt;
+
+&lt;h2 id=&#34;交换机和olt升级扩容&#34;&gt;交换机和OLT升级扩容&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-6~2017-1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;对全市流量超标的交换机和OLT设备分批进行扩容，缓解高峰期网络压力，完成了全市交换机和OLT的升级工作，同时规范OLT配置，进行双上联改造，增强了网络的健壮性，提升了网络速率和用户感知。&lt;/p&gt;
+
+&lt;h2 id=&#34;安庆市枞阳县区划调整割接&#34;&gt;安庆市枞阳县区划调整割接&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2016-6~2016-7&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;与铜陵市公司配合负责割接前期的准备工作，在枞阳中心机房现场参与完成了枞阳县的语音和宽带等通信网络的割接工作，并且用脚本语言编写了批量指令生成工具，极大地提升了指令生成的质量和效率。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Person Re-Identification System For Mobile Devices</title>
+      <link>https://sophiewooo.github.io/publication/person-re-identification/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/publication/person-re-identification/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mobile visual clothing search</title>
+      <link>https://sophiewooo.github.io/publication/clothing-search/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/publication/clothing-search/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

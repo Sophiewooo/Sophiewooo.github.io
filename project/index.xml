@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on 简历 - 吴双</title>
+    <link>https://sophiewooo.github.io/project/</link>
+    <description>Recent content in Projects on 简历 - 吴双</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <copyright>&amp;copy; 2017 Wu Shuang</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>俄罗斯方块</title>
+      <link>https://sophiewooo.github.io/project/tetris/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/project/tetris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>像素鸟</title>
+      <link>https://sophiewooo.github.io/project/flappybird/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sophiewooo.github.io/project/flappybird/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
